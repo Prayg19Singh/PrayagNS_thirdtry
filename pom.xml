@@ -5,7 +5,7 @@
 
 	<groupId>com.tut</groupId>
 	<artifactId>ProjectWithMaven</artifactId>
-	<version>3.0-Release</version>
+	<version>3.0-Release1</version>
 	<packaging>jar</packaging>
 
 	<name>ProjectWithMaven</name>
